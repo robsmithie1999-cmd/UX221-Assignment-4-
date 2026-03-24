@@ -37,11 +37,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/barbie-fashionistas-doll/
         </loc>
     </url>
@@ -58,6 +53,11 @@
     <url>
         <loc>
             http://localhost:8000/products/beach-ken-doll-with-blond-hair/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/barbie-doll-horse-playset/
         </loc>
     </url>
     <url>
