@@ -50,3 +50,5 @@
 [27-Mar-2026 14:46:26 UTC] PHP Fatal error:  Out of memory (allocated 35651584 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment-4-/.wordpress/wp-includes/Requests/src/Cookie/Jar.php on line 32
 [27-Mar-2026 14:46:54 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment-4-/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/support.php on line 29
 [27-Mar-2026 14:46:54 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment-4-/.wordpress/wp-includes/Requests/src/Cookie/Jar.php on line 32
+[27-Mar-2026 14:47:18 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment-4-/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/block-catalog.php on line 24
+[27-Mar-2026 14:47:18 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 131072 bytes) in /workspaces/UX221-Assignment-4-/.wordpress/wp-content/languages/admin-en_CA.l10n.php on line 2
