@@ -17,6 +17,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/barbie-museum/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/barbie-girl-auqa/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -63,6 +73,61 @@
     <url>
         <loc>
             http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/barbie-history/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/barbie-media/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/activity/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/barbie/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/fun/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/interesting/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/fact/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/learn/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/history/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/first/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/ruth/
         </loc>
     </url>
     <url>
