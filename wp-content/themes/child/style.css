@@ -6,7 +6,7 @@ Template:       coachify
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
-body{
+h1{
     font-family: cursive;
     font-size: large;
 }
