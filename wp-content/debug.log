@@ -90,3 +90,7 @@
 [05-Apr-2026 15:59:39 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment-4-/.wordpress/wp-includes/Requests/src/Cookie/Jar.php on line 32
 [05-Apr-2026 15:59:40 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment-4-/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/block-catalog.php on line 31
 [05-Apr-2026 15:59:40 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 131072 bytes) in /workspaces/UX221-Assignment-4-/.wordpress/wp-content/languages/admin-en_CA.l10n.php on line 2
+[05-Apr-2026 16:00:06 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment-4-/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/support.php on line 29
+[05-Apr-2026 16:00:06 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment-4-/.wordpress/wp-includes/Requests/src/Cookie/Jar.php on line 32
+[05-Apr-2026 16:06:30 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-Assignment-4-/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[05-Apr-2026 16:09:22 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-Assignment-4-/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
